@@ -1,0 +1,8 @@
+com\keylent\space\controller\SpaceAcceptController.class
+com\keylent\space\repository\MinuteStatRepository.class
+com\keylent\space\scheduler\MinuteAggregationScheduler.class
+com\keylent\space\service\IngestionServiceImpl.class
+com\keylent\space\entity\MinuteStat.class
+com\keylent\space\service\IngestionService.class
+com\keylent\space\SpaceIngestionServiceApplication.class
+com\keylent\space\store\InMemoryMinuteStore.class

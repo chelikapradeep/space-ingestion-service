@@ -1,0 +1,8 @@
+D:\Task\space-ingestion-service\src\main\java\com\keylent\space\repository\MinuteStatRepository.java
+D:\Task\space-ingestion-service\src\main\java\com\keylent\space\SpaceIngestionServiceApplication.java
+D:\Task\space-ingestion-service\src\main\java\com\keylent\space\entity\MinuteStat.java
+D:\Task\space-ingestion-service\src\main\java\com\keylent\space\service\IngestionServiceImpl.java
+D:\Task\space-ingestion-service\src\main\java\com\keylent\space\controller\SpaceAcceptController.java
+D:\Task\space-ingestion-service\src\main\java\com\keylent\space\store\InMemoryMinuteStore.java
+D:\Task\space-ingestion-service\src\main\java\com\keylent\space\service\IngestionService.java
+D:\Task\space-ingestion-service\src\main\java\com\keylent\space\scheduler\MinuteAggregationScheduler.java
